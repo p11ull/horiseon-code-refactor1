@@ -39,6 +39,9 @@ Collaborators on this project included instructional staff.
 
 I followed tutorials
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide.
+https://www.w3schools.com/html/html5_semantic_elements.asp
+https://www.w3schools.com/tags/att_img_alt.asp
+https://youtu.be/P4Mu1t5rIXg
 
 ## License
 
